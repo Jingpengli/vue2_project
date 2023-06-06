@@ -19,3 +19,5 @@ yarn build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 zhangxin add
+
+local
