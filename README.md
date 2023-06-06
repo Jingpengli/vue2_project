@@ -18,4 +18,4 @@ yarn build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-local origin local
+这是在dev上修改的内容
